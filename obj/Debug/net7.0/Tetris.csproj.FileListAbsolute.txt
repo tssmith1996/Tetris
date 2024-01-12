@@ -1,0 +1,14 @@
+C:\msys64\home\tssmith\Tetris\bin\Debug\net7.0\Tetris.exe
+C:\msys64\home\tssmith\Tetris\bin\Debug\net7.0\Tetris.deps.json
+C:\msys64\home\tssmith\Tetris\bin\Debug\net7.0\Tetris.runtimeconfig.json
+C:\msys64\home\tssmith\Tetris\bin\Debug\net7.0\Tetris.dll
+C:\msys64\home\tssmith\Tetris\bin\Debug\net7.0\Tetris.pdb
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\Tetris.AssemblyInfoInputs.cache
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\Tetris.AssemblyInfo.cs
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\Tetris.csproj.CoreCompileInputs.cache
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\Tetris.dll
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\refint\Tetris.dll
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\Tetris.pdb
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\Tetris.genruntimeconfig.cache
+C:\msys64\home\tssmith\Tetris\obj\Debug\net7.0\ref\Tetris.dll
